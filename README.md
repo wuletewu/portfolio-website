@@ -140,3 +140,18 @@ Contact
 Wuletawu - wuletawuiyasu@gmail.com
 
 Project Link: https://github.com/wuletawu/portfolio-website 
+screenshot 
+![image](https://github.com/user-attachments/assets/0a6c07b2-2654-439b-8bf9-c6df47a7d8b1)
+![image](https://github.com/user-attachments/assets/157a418e-adfe-4da5-92e7-b5e0af0647fd)
+![image](https://github.com/user-attachments/assets/5c6f7ae8-3c11-4060-96a8-255fc149cdb5)
+
+![image](https://github.com/user-attachments/assets/ad7c3d18-5c5c-416a-9544-544d1111a5fd)
+
+![image](https://github.com/user-attachments/assets/0629d2f4-9cde-432e-a139-9e772289be1b)
+
+
+
+
+
+
+s

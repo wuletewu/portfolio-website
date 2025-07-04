@@ -43,9 +43,9 @@ Contact Section:
 
 Simple contact form for inquiries.
 
-Links to social media profiles (LinkedIn, GitHub, Twitter).
+Links to social media profiles (LinkedIn, GitHub).
 
-Email address and phone number (optional).
+Email address and phone number.
 
 Responsive Layout: Optimized for mobile, tablet, and desktop devices.
 
@@ -77,7 +77,7 @@ To get a local copy up and running, follow these simple steps.
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-portfolio-repo.git
+git clone https://github.com/wuletawu/portfolio-website.git
 
 Navigate to the project directory:
 
@@ -139,4 +139,4 @@ Distributed under the MIT License. See LICENSE for more information.
 Contact
 Wuletawu - wuletawuiyasu@gmail.com
 
-Project Link: https://github.com/wuletawu/portfolio-website.git 
+Project Link: https://github.com/wuletawu/portfolio-website 
